@@ -2,6 +2,21 @@
   display: block;
   margin: 0 auto;
   width: 80%;
+  height: auto;
   border: 1px solid red;
 }
 
+.right, .left {
+  display: inline-block;
+}
+
+.box {
+  width: auto;
+  height: auto;
+}
+
+.brand-logo {
+  height: 250px;
+  width: 250px;
+  background-image: url('http://4.bp.blogspot.com/_lCRnsgTQgRo/SKhskvKXaPI/AAAAAAAAAFE/yQGs3JkcozU/s320/badlogo.jpg');
+}
