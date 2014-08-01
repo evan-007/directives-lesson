@@ -15,10 +15,10 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
+      './node_modules/jquery/dist/jquery.min.js',
       './optin/bower_components/angular/angular.js',
       './optin/bower_components/angular-mocks/angular-mocks.js',
-      './optin/app.js',
-      './optin/appSpec.js',
+      './optin/*.js',
       './optin/*.html'
     ],
 

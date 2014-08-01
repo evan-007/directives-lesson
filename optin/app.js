@@ -2,7 +2,7 @@ angular.module('myApp', [])
 .directive('optIn', function(){
   return {
     restrict: "E",
-    templateUrl: "./optin.html",
+    templateUrl: "optin.html",
     transclude: true
   }
 })
