@@ -35,6 +35,10 @@ module.exports = function(config) {
         'optin/*.html': 'html2js'
     },
 
+    ngHtml2JsPreprocessor: {
+      stripPrefix: 'optin/'
+    },
+
 
     // test results reporter to use
     // possible values: 'dots', 'progress'
