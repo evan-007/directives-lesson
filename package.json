@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/evan-007/directives-lesson/issues"
   },
-  "homepage": "https://github.com/evan-007/directives-lesson"
+  "homepage": "https://github.com/evan-007/directives-lesson",
+  "dependencies": {
+    "karma": "^0.12.19",
+    "karma-ng-html2js-preprocessor": "^0.1.0"
+  }
 }

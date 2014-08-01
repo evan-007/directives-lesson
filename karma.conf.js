@@ -15,20 +15,24 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      
+      './optin/bower_components/angular/angular.js'
+      './optin/bower_components/angular-mocks/angular-mocks.js'
+      './optin/app.js'
+      './optin/appSpec.js'
+      './optin/optin.html'
     ],
 
 
     // list of files to exclude
     exclude: [
-      
+
     ],
 
 
     // preprocess matching files before serving them to the browser
     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-    
+        './optin/*.html': 'html2js'
     },
 
 
