@@ -1,0 +1,19 @@
+{
+  "name": "directives-lesson",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evan-007/directives-lesson"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan-007/directives-lesson/issues"
+  },
+  "homepage": "https://github.com/evan-007/directives-lesson"
+}

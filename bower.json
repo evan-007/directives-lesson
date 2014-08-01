@@ -1,0 +1,17 @@
+{
+  "name": "directives-lesson",
+  "version": "0.0.0",
+  "homepage": "https://github.com/evan-007/directives-lesson",
+  "authors": [
+    "Evan Lloyd <eulloyd@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
