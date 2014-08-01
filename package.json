@@ -18,6 +18,7 @@
   "homepage": "https://github.com/evan-007/directives-lesson",
   "dependencies": {
     "karma": "^0.12.19",
-    "karma-ng-html2js-preprocessor": "^0.1.0"
+    "karma-ng-html2js-preprocessor": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.4"
   }
 }
